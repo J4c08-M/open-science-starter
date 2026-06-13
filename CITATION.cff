@@ -1,29 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this guide in your work or teaching, please cite it as below."
+message: "If you use this guide, please cite it as below."
 type: software
 title: "Open Science Starter: GitHub, Zenodo, ORCID and DOI Guide for Students"
-abstract: >
-  A practical, step-by-step guide for students and early-career researchers
-  who want to publish their first project on GitHub, obtain a DOI via Zenodo,
-  set up an ORCID profile, and write a proper CITATION.cff file.
-  No programming knowledge required. Written in Polish with universal workflow.
 authors:
-  - family-names: "[FILL IN: Your Last Name]"
-    given-names: "[FILL IN: Your First Name]"
-    affiliation: "[FILL IN: e.g. Medical University of Białystok, Poland]"
-    orcid: "[FILL IN: https://orcid.org/0000-0000-0000-0000]"
+  - family-names: "Matuk"
+    given-names: "Jakub"
+    affiliation: "Medical University of Bialystok, Poland"
 version: "1.0.0"
-date-released: "2025-05-24"
+date-released: "2026-06-13"
 license: CC-BY-4.0
-repository-code: "https://github.com/[FILL IN: username]/open-science-starter"
-doi: "[FILL IN: assigned by Zenodo after first release]"
-keywords:
-  - GitHub
-  - Zenodo
-  - ORCID
-  - DOI
-  - open science
-  - research data management
-  - students
-  - open education
-  - citation
+repository-code: "https://github.com/J4c08-M/open-science-starter"
