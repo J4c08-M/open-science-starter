@@ -3,7 +3,7 @@
 
 ---
 
-## Czym jest DOI i po co Ci go?
+## Czym jest DOI i po co Ci on?
 
 **DOI** (Digital Object Identifier) to stały, unikalny identyfikator Twojego projektu — jak ISBN dla książki. Wygląda tak:
 
