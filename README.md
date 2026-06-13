@@ -4,7 +4,7 @@
 ## Przewodnik: GitHub · Zenodo · ORCID · DOI
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightblue.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20681671.svg)](https://doi.org/10.5281/zenodo.20681671)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com)
 [![For Students](https://img.shields.io/badge/for-students%20%26%20researchers-purple)](https://github.com)
 
