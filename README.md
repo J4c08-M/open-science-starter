@@ -32,7 +32,7 @@
 
 > To moje pierwsze publiczne repozytorium — stworzone jako projekt edukacyjny podczas nauki obsługi GitHub i narzędzi otwartej nauki.
 >
-> Powstało równolegle z projektem [Study Smarter with AI](https://github.com/[TWOJ_LOGIN]/study-smarter-ai), przy okazji którego odkryłem, że konfiguracja GitHub + Zenodo + ORCID zasługuje na osobny, szczegółowy przewodnik.
+> Powstało równolegle z projektem [Study Smarter with AI](https://github.com/[TWOJ_LOGIN]/study-smarter-ai) (coming soon), przy okazji którego odkryłem, że konfiguracja GitHub + Zenodo + ORCID zasługuje na osobny, szczegółowy przewodnik.
 >
 > Jeśli też zaczynasz przygodę z open source — ten przewodnik jest dla Ciebie.
 
@@ -63,7 +63,7 @@ Twój projekt
      │
      ▼
 ┌─────────────┐     Release v1.0.0     ┌─────────────────┐
-│   GitHub    │ ──────────────────────▶│     Zenodo      │
+│   GitHub    │ ─────────────────────▶│     Zenodo      │
 │ (kod / dok) │                        │  (archiwum DOI) │
 └─────────────┘                        └────────┬────────┘
                                                 │ DOI
@@ -131,6 +131,6 @@ Możesz kopiować, modyfikować i udostępniać — pod warunkiem podania autora
 
 *Jeśli przewodnik był pomocny — zostaw ⭐!*
 
-🔗 Powiązany projekt: [study-smarter-ai](https://github.com/[TWOJ_LOGIN]/study-smarter-ai) — szablony Claude dla studentów medycyny
+🔗 Powiązany projekt: [study-smarter-ai](https://github.com/[TWOJ_LOGIN]/study-smarter-ai) — szablony Claude dla studentów medycyny (coming soon)
 
 </div>
