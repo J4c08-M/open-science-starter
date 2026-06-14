@@ -34,7 +34,7 @@ Dla studenta bez doświadczenia programistycznego GitHub to przede wszystkim:
 
 | Pole | Zalecana wartość i wskazówka |
 |---|---|
-| **Repository name** | Krótka, opisowa nazwa z myślnikami: `study-smarter-ai`, `open-science-starter`. Bez spacji, bez polskich znaków. |
+| **Repository name** | Krótka, opisowa nazwa z myślnikami: `smart-study-ai`, `open-science-starter`. Bez spacji, bez polskich znaków. |
 | **Description** | Jedno zdanie opisujące projekt po angielsku (widoczne w wyszukiwarce GitHub i Google). |
 | **Visibility** | ✅ **Public** — wymagane dla Zenodo DOI i widoczności naukowej |
 | **Initialize with README** | ❌ **Nie zaznaczaj** — wgrasz własny plik README.md |
