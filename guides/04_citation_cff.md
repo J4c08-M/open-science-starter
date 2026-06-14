@@ -69,7 +69,7 @@ message: "If you use this project, please cite it as below."
 type: software
 
 # Pełna nazwa projektu — taka sama jak tytuł README
-title: "Study Smarter with AI: Claude Prompt Templates for Medical Students"
+title: "Smart Study AI: Claude Prompt Template for Medical Students"
 
 # Krótki opis (opcjonalnie, ale dobra praktyka)
 abstract: >
@@ -93,7 +93,7 @@ date-released: "2025-05-24"
 license: CC-BY-4.0
 
 # Pełny URL repozytorium GitHub
-repository-code: "https://github.com/jan-kowalski/study-smarter-ai"
+repository-code: "https://github.com/jan-kowalski/smart-study-ai"
 
 # DOI z Zenodo — uzupełnij po uzyskaniu
 doi: "10.5281/zenodo.14523678"
