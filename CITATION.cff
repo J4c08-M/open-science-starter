@@ -6,8 +6,8 @@ authors:
   - family-names: "Matuk"
     given-names: "Jakub"
     affiliation: "Medical University of Bialystok, Poland"
-version: "1.0.0"
-date-released: "2026-06-13"
+version: "2.0.0"
+date-released: "2026-06-26"
 license: CC-BY-4.0
 repository-code: "https://github.com/J4c08-M/open-science-starter"
 doi: "10.5281/zenodo.20681671"
