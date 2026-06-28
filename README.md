@@ -10,6 +10,19 @@
 
 **Polski** | [English summary below](#english-summary)
 
+
+## Authors
+
+- **Jakub Matuk, BEng** — lead author
+  [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--8986--8609-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-8986-8609)
+- **Łukasz Minarowski, MD, PhD** — supervisor
+  [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2536--3508-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2536-3508)
+
+*Medical University of Białystok, Poland*
+
+---
+
+
 </div>
 
 ---
